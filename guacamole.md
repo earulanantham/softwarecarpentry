@@ -4,5 +4,7 @@
 -avocado 
 -lime
 -salt
+-chili flakes 
 
 ##Method
+-mash avocado
